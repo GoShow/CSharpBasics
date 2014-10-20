@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Volleyball", "01.Volleyball\01.Volleyball.csproj", "{274D6CFE-2075-4FC7-BE78-D009526793D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Eclipse", "03.Eclipse\03.Eclipse.csproj", "{CE912C81-392D-404A-8053-774684B460F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.OddEvenSum", "02.OddEvenSum\02.OddEvenSum.csproj", "{2403DAB9-AD5D-4CDC-A517-95615FEAF631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.HayvanNumbers", "04.HayvanNumbers\04.HayvanNumbers.csproj", "{3883C90D-5143-4A46-B55C-E73CF7876150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BitsUp", "05.BitsUp\05.BitsUp.csproj", "{EFF463BB-2183-430D-955C-8EAE74EBF145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. HayvanNumberV2.0", "04. HayvanNumberV2.0\04. HayvanNumberV2.0.csproj", "{21864C8E-692D-4C27-879E-1CB6A69287E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{274D6CFE-2075-4FC7-BE78-D009526793D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274D6CFE-2075-4FC7-BE78-D009526793D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274D6CFE-2075-4FC7-BE78-D009526793D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274D6CFE-2075-4FC7-BE78-D009526793D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE912C81-392D-404A-8053-774684B460F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE912C81-392D-404A-8053-774684B460F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE912C81-392D-404A-8053-774684B460F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE912C81-392D-404A-8053-774684B460F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2403DAB9-AD5D-4CDC-A517-95615FEAF631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2403DAB9-AD5D-4CDC-A517-95615FEAF631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2403DAB9-AD5D-4CDC-A517-95615FEAF631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2403DAB9-AD5D-4CDC-A517-95615FEAF631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3883C90D-5143-4A46-B55C-E73CF7876150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3883C90D-5143-4A46-B55C-E73CF7876150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3883C90D-5143-4A46-B55C-E73CF7876150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3883C90D-5143-4A46-B55C-E73CF7876150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF463BB-2183-430D-955C-8EAE74EBF145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF463BB-2183-430D-955C-8EAE74EBF145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF463BB-2183-430D-955C-8EAE74EBF145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF463BB-2183-430D-955C-8EAE74EBF145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21864C8E-692D-4C27-879E-1CB6A69287E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21864C8E-692D-4C27-879E-1CB6A69287E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21864C8E-692D-4C27-879E-1CB6A69287E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21864C8E-692D-4C27-879E-1CB6A69287E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

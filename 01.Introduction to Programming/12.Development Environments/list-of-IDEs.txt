@@ -1,0 +1,13 @@
+﻿Short list of development enviroments:
+
+	- Anjuta
+	- Geany
+	- GNAT Programming Studio
+	- Microsoft Visual Studio
+	- Microsoft Visual Studio Express
+	- MonoDevelop
+	- NetBeans
+	- Komodo IDE
+	- Aptana Studio
+	- Eclipse
+	- Oracle JDeveloper
